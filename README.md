@@ -22,9 +22,13 @@ Main features of the program include:-
 ## Users
 #### Admin
 
-#### Services
+#### Customer
 
-#### Calender
+#### Salon attendee
+
+## Services
+
+## Calender
 
 ## Solution
 
@@ -38,12 +42,13 @@ The you need to run this in order to download the required dependancies.
 ```
 npm install
 ```
+
 The program is made of both `front-end` and `backend` code.
 ### `front-end` diagram flow
-![Screenshot from 2022-11-11 06-22-47](https://user-images.githubusercontent.com/84603202/201256389-af42c253-54cb-410b-be1c-906d18c85e89.png)
+![Screenshot from 2022-11-11 06-40-35](https://user-images.githubusercontent.com/84603202/201258728-0186a177-e200-4ee9-a32c-e4120d6eb9f3.png)
 
 ### backend diagram flow
-![Screenshot from 2022-11-11 06-23-17](https://user-images.githubusercontent.com/84603202/201256685-c038874a-2765-476f-9df3-3b4db497584e.png)
+![Screenshot from 2022-11-11 06-41-12](https://user-images.githubusercontent.com/84603202/201258650-421b8b71-c086-4d05-954b-b7c8d2400211.png)
 
 To run the front-end program from the `local host:3000`. run the command
 ```
