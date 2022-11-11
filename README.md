@@ -52,10 +52,11 @@ There are APIs to enable smooth funtioning of the app and also make the solution
 
 ## Solution
 YeeWins-Spa is a web app that enhaces quick and convinient delivery of beauty services but also can be developed more to be used by other consumers 
-such as:- 
-      - Booking reservations in a `hotel`
-      - Booking a flight/seat in a `travelling agency`
-      - Booking rooms in a `motel`
+such as:-
+
+  - Booking reservations in a `hotel`
+  - Booking a flight/seat in a `travelling agency`
+  - Booking rooms in a `motel`
 
 ## How to use
 In order to use the program, you have to clone this repository. 
@@ -68,10 +69,10 @@ npm install
 ```
 
 The program is made of both `front-end` and `backend` code.
-### `Front-end` diagram flow
+### `Front-end diagram flow`
 ![Screenshot from 2022-11-11 06-40-35](https://user-images.githubusercontent.com/84603202/201258728-0186a177-e200-4ee9-a32c-e4120d6eb9f3.png)
 
-### `Backend` diagram flow
+### `Backend diagram flow`
 ![Screenshot from 2022-11-11 06-41-12](https://user-images.githubusercontent.com/84603202/201258650-421b8b71-c086-4d05-954b-b7c8d2400211.png)
 
 To run the front-end program from the `local host:3000`. run the command
@@ -87,4 +88,4 @@ npm run start
 - `Spring Boot`
 - `HTML`, `CSS` & `JavaScript`
 
-`Collaborations and pull requests are allowed for more improvements and modifications. Also, the code is still under development`
+Collaborations and pull requests are allowed for more improvements and modifications. Also, the code is still under development.
