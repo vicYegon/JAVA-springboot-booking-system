@@ -17,21 +17,45 @@ Main features of the program include:-
   - `Medicure`
   - `Make-up`
   - `Hair dressing`
-- [Calender](#calender)
+-[APIs](#APIs)
+  - `Calender`
+  - `Payment gateway`
 
 ## Users
+YeeWins-spa web app is made up of several users majorly.
 #### Admin
+This is the admin of the program and also the manager/owner of the spa. Through the app he/she is able to:- 
+- Manage user roles in the app. 
+- Manage services by allocating booked appointments to respective employees [salon attandee](#salon-attendee)
 
 #### Customer
+This user is the main user as most operations involve him/her. They can:- 
+- View the services in the system database.
+- Book open appointments.
+- Give remarks/commendations/ratings on the services received. 
 
 #### Salon attendee
+As an employee of the spa, they can:-
+- Chose and allow appointments for themselves and notify the [admin](#admin) about it.
 
 ## Services
+There are several services offered by the spa and can be booked by a client/customer.
+ - Manicure, Pedicure, Make-up & Hair-dressing services.
 
-## Calender
+## APIs
+There are APIs to enable smooth funtioning of the app and also make the solution a success. They include:-
+ ### - Calender
+        > It enables booking and notification through the google calender
+ 
+ ### - Payment Gateway
+        > It allows for a customer to pay through other means other than cash. This can be prior to book an appointment before-hand.
 
 ## Solution
-
+YeeWins-Spa is a web app that enhaces quick and convinient delivery of beauty services but also can be developed more to be used by other consumers 
+such as:- 
+        - booking reservations in a `hotel`
+        - booking a flight/seat in a `travelling agency`
+        - booking rooms in a `motel`
 
 ## How to use
 In order to use the program, you have to clone this repository. 
@@ -44,10 +68,10 @@ npm install
 ```
 
 The program is made of both `front-end` and `backend` code.
-### `front-end` diagram flow
+### `Front-end` diagram flow
 ![Screenshot from 2022-11-11 06-40-35](https://user-images.githubusercontent.com/84603202/201258728-0186a177-e200-4ee9-a32c-e4120d6eb9f3.png)
 
-### backend diagram flow
+### `Backend` diagram flow
 ![Screenshot from 2022-11-11 06-41-12](https://user-images.githubusercontent.com/84603202/201258650-421b8b71-c086-4d05-954b-b7c8d2400211.png)
 
 To run the front-end program from the `local host:3000`. run the command
@@ -63,3 +87,4 @@ npm run start
 - `Spring Boot`
 - `HTML`, `CSS` & `JavaScript`
 
+`Collaborations and pull requests are allowed for more improvements and modifications. Also, the code is still under development`
