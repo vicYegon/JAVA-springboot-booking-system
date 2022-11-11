@@ -76,7 +76,7 @@ To run the front-end code from the `local host:3000`, use the following code
 ```
 npx run start
 ```
-### `Backend diagram flow`
+### ER Diagram for the `Backend diagram flow`
 ![Screenshot from 2022-11-11 06-41-12](https://user-images.githubusercontent.com/84603202/201258650-421b8b71-c086-4d05-954b-b7c8d2400211.png)
 
 ### Dependancies
