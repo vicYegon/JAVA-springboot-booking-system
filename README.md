@@ -72,13 +72,13 @@ The program is made of both `front-end` and `backend` code.
 ### `Front-end diagram flow`
 ![Screenshot from 2022-11-11 06-40-35](https://user-images.githubusercontent.com/84603202/201258728-0186a177-e200-4ee9-a32c-e4120d6eb9f3.png)
 
+To run the front-end code from the `local host:3000`, use the following code
+```
+npx run start
+```
 ### `Backend diagram flow`
 ![Screenshot from 2022-11-11 06-41-12](https://user-images.githubusercontent.com/84603202/201258650-421b8b71-c086-4d05-954b-b7c8d2400211.png)
 
-To run the front-end program from the `local host:3000`. run the command
-```
-npm run start
-```
 ### Dependancies
 ![Screenshot from 2022-11-11 05-18-39](https://user-images.githubusercontent.com/84603202/201248555-75ab375d-a7f2-4672-ae64-28f5e22c909a.png)
 
