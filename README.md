@@ -17,7 +17,7 @@ Main features of the program include:-
   - `Medicure`
   - `Make-up`
   - `Hair dressing`
--[APIs](#APIs)
+- [APIs](#APIs)
   - `Calender`
   - `Payment gateway`
 
@@ -45,17 +45,17 @@ There are several services offered by the spa and can be booked by a client/cust
 ## APIs
 There are APIs to enable smooth funtioning of the app and also make the solution a success. They include:-
  ### - Calender
-        > It enables booking and notification through the google calender
+   It enables booking and notification through the google calender
  
  ### - Payment Gateway
-        > It allows for a customer to pay through other means other than cash. This can be prior to book an appointment before-hand.
+   It allows for a customer to pay through other means other than cash. This can be prior to book an appointment before-hand.
 
 ## Solution
 YeeWins-Spa is a web app that enhaces quick and convinient delivery of beauty services but also can be developed more to be used by other consumers 
 such as:- 
-        - booking reservations in a `hotel`
-        - booking a flight/seat in a `travelling agency`
-        - booking rooms in a `motel`
+      - Booking reservations in a `hotel`
+      - Booking a flight/seat in a `travelling agency`
+      - Booking rooms in a `motel`
 
 ## How to use
 In order to use the program, you have to clone this repository. 
