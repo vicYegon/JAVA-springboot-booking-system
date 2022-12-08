@@ -16,7 +16,7 @@ Main features of the program include:-
   - `Manicure`
   - `Medicure`
   - `Nail Polishing`
-  - `Feet waxing`
+  - `Waxing and massage`
 - [APIs](#APIs)
   - `Calender`
   - `Payment gateway`
