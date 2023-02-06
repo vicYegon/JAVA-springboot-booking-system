@@ -84,7 +84,7 @@ npx run start
 
 ## Technologies
 ### LANGUAGES
-- `FRONT-END` - `HTML`, `CSS` & `JavaScript`
+- ``FRONT-END`` - `HTML`, `CSS` & `JavaScript`
 - `BACKEND` - `JAVA`
 ### FRAMEWORKS USED
 - `FRONT-END FRAMEWORK` - `ReactJs`
