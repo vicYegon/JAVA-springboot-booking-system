@@ -93,4 +93,4 @@ npx run start
 ## Team 
 `Jenga-cohort3`
 
-Collaborations and pull requests are allowed for more improvements and modifications. Also, the code is still under development.
+Collaborations and pull requests are allowed for more improvements and modifications.
