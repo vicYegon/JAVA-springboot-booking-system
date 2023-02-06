@@ -83,12 +83,12 @@ npx run start
 ![Screenshot from 2022-11-11 05-18-39](https://user-images.githubusercontent.com/84603202/201248555-75ab375d-a7f2-4672-ae64-28f5e22c909a.png)
 
 ## Technologies
-### LANGUAGES
-- ``FRONT-END`` - `HTML`, `CSS` & `JavaScript`
-- `BACKEND` - `JAVA`
-### FRAMEWORKS USED
-- `FRONT-END FRAMEWORK` - `ReactJs`
-- `BACK-END FRAMEWORK` - `Spring Boot`
+#### LANGUAGES
+- FRONT-END - `HTML`, `CSS` & `JavaScript`
+- BACKEND - `JAVA`
+#### FRAMEWORKS USED
+- FRONT-END FRAMEWORK - `ReactJs`
+- BACK-END FRAMEWORK - `Spring Boot`
 
 ## Team 
 `Jenga-cohort3`
